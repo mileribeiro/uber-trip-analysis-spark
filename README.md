@@ -81,6 +81,7 @@ Basta abrir o notebook diretamente no Colab.
 
 ### Ambiente Local
 Instalar as dependências necessárias:
+pip install pyspark
 
 
 ---
