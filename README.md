@@ -1,5 +1,7 @@
 # Análise de Corridas da Uber com Apache Spark (PySpark)
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mileribeiro/uber-trip-analysis-spark/blob/main/uber_trip_analysis_spark.ipynb)
+
 Este projeto apresenta uma **análise exploratória de dados de corridas da Uber utilizando Apache Spark (PySpark)**.  
 O objetivo é demonstrar como ferramentas de processamento distribuído podem ser utilizadas para **carregar, transformar e analisar dados de mobilidade em escala**.
 
